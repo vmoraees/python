@@ -1,3 +1,5 @@
+# this is my first program :)
+# bhaskara
 import math
 a = int(input("digite o valor de a" ))
 b = int(input("digite o valor de b" ))
