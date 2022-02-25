@@ -1,9 +1,9 @@
 # this is my first program :)
 # bhaskara
 import math
-a = int(input("digite o valor de a" ))
-b = int(input("digite o valor de b" ))
-c = int(input("digite o valor de c" ))
+a = int(input("digite o valor de a " ))
+b = int(input("digite o valor de b " ))
+c = int(input("digite o valor de c " ))
 delta = b**2 - 4*a*c
 
 if delta>0:
@@ -18,7 +18,7 @@ if delta==0:
     print("delta0", bk5)
 
 if delta<0:
-    print("nao tem valor real cria")
+    print("não possui valor real.")
     
 
 
